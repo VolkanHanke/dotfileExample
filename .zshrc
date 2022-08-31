@@ -1,10 +1,4 @@
 
-alias system="tf"
+alias sudo apt update && sudo apt upgrade="suu"
 
-
-ZSH_THEME="amuse"
-
-plugins=(git kubectl docker)
-
-source $ZSH/oh-my-zsh.sh
 
