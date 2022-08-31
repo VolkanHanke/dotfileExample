@@ -1,4 +1,2 @@
 
-alias sudo apt update && sudo apt upgrade="suu"
-
-
+alias suu="sudo apt update && sudo apt upgrade"
